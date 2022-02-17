@@ -1,3 +1,3 @@
-module github.com/Michal-Polaczyk/golanglearning
+module github.com/michal-polaczyk/golanglearning
 
 go 1.17
